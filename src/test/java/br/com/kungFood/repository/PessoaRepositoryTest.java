@@ -29,7 +29,7 @@ public class PessoaRepositoryTest {
 		dao = null;
 	}
 
-	@Test
+	//@Test
 	public void testSalvarNovoRegistro() {
 
 		dao.SalvarNovoRegistro(pessoaModel);
